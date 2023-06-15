@@ -78,3 +78,7 @@ int main() {
 			if (s.empty()) {
 				cout << "\nstack in empty." << endl;
 				break;
+			}
+			s.pop();
+			break;
+		case '3':
