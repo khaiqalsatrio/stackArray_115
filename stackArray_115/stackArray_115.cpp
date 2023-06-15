@@ -52,3 +52,7 @@ public:
 		}
 	}
 };
+
+int main() {
+	stackArray s;
+	while (true) {
