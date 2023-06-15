@@ -56,3 +56,10 @@ public:
 int main() {
 	stackArray s;
 	while (true) {
+		cout << endl;
+		cout << "\n**stack menu**\n";
+		cout << "1. push\n";
+		cout << "2. pop\n";
+		cout << "3. display\n";
+		cout << "4. exit\n";
+		cout << "\nEnter your choice: ";
